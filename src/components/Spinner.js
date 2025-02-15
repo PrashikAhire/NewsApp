@@ -1,5 +1,5 @@
 import React from 'react';
-import loading from 'C:/Users/Lenovo/Desktop/Reactjs projects/newsapp/src/loader.gif';
+import loading from '../loader.gif';
 const Spinner =()=>{
   
     return (
