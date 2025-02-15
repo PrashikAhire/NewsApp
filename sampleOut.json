@@ -1,0 +1,137 @@
+
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Climate change: Seasonal shifts causing 'chaos' for UK nature",
+      "description": "Climate change is upsetting the regular rhythm of the seasons, making plants and wildlife more susceptible to disease.",
+      "url": "https://www.bbc.co.uk/news/science-environment-67705812",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10183/production/_132132956_reddeeronthenationaltrust'sholnicoteestateonexmoor-creditnationaltrustimagesbarryedwards.jpg",
+      "publishedAt": "2023-12-27T06:07:18.149791Z",
+      "content": "The loss of predictable weather patterns is \"causing chaos\" for nature, according to the National Trust.\r\nIt warns climate change is upsetting the regular rhythm of the seasons, making plants and wil… [+4968 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Renewable energy drive for indigenous groups in Colombia",
+      "description": "Local communities and indigenous groups can now set up partnerships to produce and sell renewable energy.",
+      "url": "https://www.bbc.co.uk/news/world-latin-america-67825466",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D25E/production/_132145835_windgetty-002.jpg",
+      "publishedAt": "2023-12-27T05:07:20.8837065Z",
+      "content": "Colombia has approved regulations that encourage local communities and indigenous groups to produce energy through renewable sources and sell it to the national grid. \r\nOnly 1% of the country's energ… [+997 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Florida shooting: Mum fatally shot over Christmas present row",
+      "description": "The 23-year-old mother was shot and killed by her teenage brother, according to the sheriff's office.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-67825635",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2368/production/_132146090_screenshot2023-12-27041726.png",
+      "publishedAt": "2023-12-27T05:07:18.3687077Z",
+      "content": "Two teenage brothers have been arrested after their sister was shot and died during a row over Christmas presents.\r\nThe 23-year-old was shot in the chest by her teenage brother while she had her 10-m… [+1122 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Apple seeks appeal after US allows smart watch import ban",
+      "description": "Imports and sales of Apple's Series 9 and Ultra 2 watches in the US have halted over a patent dispute.",
+      "url": "https://www.bbc.co.uk/news/business-67825553",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9BAE/production/_132145893_applewatch.jpg",
+      "publishedAt": "2023-12-27T04:37:11.1798258Z",
+      "content": "Apple says it will appeal a US ban on imports and sales of its Series 9 and Ultra 2 watches. \r\nThe move comes after the Biden Administration on Tuesday declined to take emergency action to lift restr… [+2187 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Lee Sun-kyun: Parasite actor found dead, say reports",
+      "description": "Lee had been under investigation for illegal drug use since early this year.",
+      "url": "https://www.bbc.co.uk/news/world-asia-67825665",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E262/production/_132145975_gettyimages-1150924936.jpg",
+      "publishedAt": "2023-12-27T03:22:11.8209634Z",
+      "content": "South Korean actor Lee Sun-kyun, best known for his role in Oscar-winning film Parasite, has been found dead, say South Korean media quoting police.\r\nThe 48-year-old was found unconscious in a car at… [+543 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Israel-Gaza war: Hamas reports 241 deaths in Gaza inside 24 hours",
+      "description": "Palestinian President Mahmoud Abbas calls the war a \"grave crime\" against his people.",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-67825465",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6882/production/_132145762_smokegaza.jpg",
+      "publishedAt": "2023-12-27T01:22:14.1799089Z",
+      "content": "Media caption, Watch: Drone shots show Palestinians buried in mass grave\r\nGaza's Hamas-run health ministry has said at least 241 people were killed in the past 24 hours, as Israel's military operatio… [+2690 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Angst grows among youth voters over Biden's Israel policy",
+      "description": "Young voters say the situation in the Gaza Strip makes it hard to back Biden in the 2024 election.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-67808808",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1444F/production/_132132038_gettyimages-1258775487.jpg",
+      "publishedAt": "2023-12-27T00:22:15.7196247Z",
+      "content": "The 2024 presidential election promises to be one of the most polarising political contests in living memory. But as the war in Gaza rages, President Joe Biden's unequivocal support of Israel is putt… [+4964 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Drone shots show Palestinians buried in mass grave",
+      "description": "Some 80 unidentified bodies handed over by Israel are lowered into a grave in southern Gaza.",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-67825385",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/127EA/production/_132145757_p0h1q77s.jpg",
+      "publishedAt": "2023-12-26T23:22:17.4534994Z",
+      "content": "Around 80 unidentified Palestinian bodies have been buried in a mass grave in Rafah, southern Gaza.\r\nSources in the Hamas-run health ministry told AFP news agency they had been transported \"from morg… [+456 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "FBI investigate threats against Colorado judges who ruled against Donald Trump",
+      "description": "Police say judges who ruled that Donald Trump can't run for president in Colorado are facing death threats.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-67766972",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1DE6/production/_132145670_coloradosupremecourt.jpg",
+      "publishedAt": "2023-12-26T23:07:15.9699009Z",
+      "content": "Police in Colorado are investigating threats made against judges who ruled Donald Trump cannot be listed on the state's presidential primary ballot. \r\nDenver Police said they was providing extra patr… [+3419 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "'Godfather' of avocado toast chef Bill Granger dies, aged 54",
+      "description": "He passed away in a London hospital on Christmas Day, aged 54, with his family by his side.",
+      "url": "https://www.bbc.co.uk/news/world-australia-67825337",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1184A/production/_132145717_gettyimages-129166234-1.jpg",
+      "publishedAt": "2023-12-26T22:52:14.2494122Z",
+      "content": "Media caption, Australian restaurateur Bill Granger has built an empire around breakfast\r\nRenowned Australian chef Bill Granger - the \"godfather\" of avocado toast - has died.\r\nA self-taught cook from… [+980 chars]"
+    }
+  ]
+}
